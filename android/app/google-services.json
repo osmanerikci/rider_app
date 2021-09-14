@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007709816446",
+    "firebase_url": "https://my-uber-clone-37543-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-uber-clone-37543",
+    "storage_bucket": "my-uber-clone-37543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007709816446:android:0f8ec43a5ff56e7daaba2f",
+        "android_client_info": {
+          "package_name": "com.example.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007709816446-iec0lokut0dc4k0ll3ma7jvm4kl30qq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJHy6oA9v_GWB7KRzEOXSep19mn4XuhRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007709816446-iec0lokut0dc4k0ll3ma7jvm4kl30qq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
